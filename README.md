@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renannazar
 - 👀 I’m interested in Mobile and Web Application
 - 🌱 I’m currently learning Kotlin and Unity
-- 📫 How to reach me is hello@renan.id
+- 📫 How to reach me is renannazarb@gmail.com
 
 <!---
 💞️ I’m looking to collaborate on ...
